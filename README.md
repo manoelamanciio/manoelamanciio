@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, sou o Manoel Amancio
 
-<!--
-**manoelamanciio/manoelamanciio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software com foco em **desenvolvimento web e backend**.
 
-Here are some ideas to get you started:
+🔭 Atualmente trabalhando em projetos que envolvem:
+- APIs REST com Python (Flask)
+- Arquitetura backend e lógica de negócio
+- Versionamento com Git e GitHub
+- Boas práticas de código
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projetos em destaque:
+
+### 🌟 Destaques
+- **Sistema de Cadastro de Membros** – App web com Flask, rotas organizadas, formulários públicos e área administrativa.
+- **Simulação de Recebimento Pix** – Backend planejado com lógica antifraude e status de transações.
+
+📫 Vamos conversar:
+LinkedIn: https://www.linkedin.com/in/manoellamanciio
