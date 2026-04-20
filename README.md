@@ -1,52 +1,54 @@
-# 👋 Olá, sou o Manoel Amancio
+# 👨‍💻 Manoel Amâncio
 
-🎓 Estudante de Engenharia de Software (2º período)
-💻 Em formação Full Stack com foco em Java
+Desenvolvedor em formação, com foco em Java e construção de APIs.
+
+🎯 Buscando oportunidade de estágio em desenvolvimento
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de Engenharia de Software com foco em desenvolvimento backend utilizando Java. Atualmente estou em formação Full Stack, desenvolvendo projetos práticos para fortalecer minhas habilidades em lógica de programação, orientação a objetos e construção de sistemas.
+Estudante de Engenharia de Software e em formação Full Stack, com foco no desenvolvimento de projetos práticos voltados para backend.
+
+Atuo na construção de aplicações utilizando lógica de programação, orientação a objetos e implementação de regras de negócio, incluindo simulações de cenários reais como validação de transações e persistência de dados.
 
 ---
 
-## 🛠️ Tecnologias e conhecimentos
+## 🛠️ Tecnologias
 
-* Java (lógica de programação e POO)
-* Estruturas de repetição e controle de fluxo
-* Versionamento com Git e GitHub
-* HTML, CSS e JavaScript (em aprendizado)
-* Banco de dados (MySQL - em aprendizado)
+* Java (POO, lógica de programação)
+* JavaScript | Node.js
+* Python
+* SQLite | MySQL (em evolução)
+* Git & GitHub
 
 ---
 
-## 🔭 Atualmente estudando
+## 💡 Projetos em destaque
 
-* Java e orientação a objetos
-* Desenvolvimento backend com Spring Boot
-* Desenvolvimento Full Stack (Java + React)
+### 🔹 Sistema Antifraude Pix
+
+Simulação de um sistema de recebimento Pix com regras de validação, análise de risco e controle de status de transações.
+
+### 🔹 CRUD com Python + SQLite
+
+Aplicação com operações completas de cadastro, persistência de dados e manipulação de informações.
+
+### 🔹 Conversor de Medidas (Java)
+
+Aplicação em terminal com menu interativo, utilizando estruturas de repetição e controle de fluxo.
+
+---
+
+## 📈 Em evolução
+
+* Desenvolvimento backend com Java (Spring Boot)
+* Construção de APIs REST
+* Formação Full Stack (Java + JavaScript + React)
 * Estrutura de dados e boas práticas
-
----
-
-## 🌟 Projetos em destaque
-
-* **Simulação de Recebimento Pix (Antifraude)**
-  Projeto backend focado em regras de negócio, validação de transações, análise de risco e simulação de um sistema de pagamentos.
-
-* **Conversor de Medidas (Java)**
-  Aplicação com menu interativo no terminal, utilizando estruturas de repetição, entrada de dados com Scanner e formatação de saída.
-
----
-
-## 📈 Objetivo
-
-Busco uma oportunidade de estágio em desenvolvimento Java para aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções reais.
 
 ---
 
 ## 📫 Contato
 
-🔗 LinkedIn:
-https://www.linkedin.com/in/manoellamanciio
+* LinkedIn: https://www.linkedin.com/in/manoellamanciio
