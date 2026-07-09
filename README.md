@@ -49,7 +49,7 @@ Aplicação prática via terminal baseada em menus interativos, aplicando concei
 ### 📫 Vamos nos conectar?
 
 *   **LinkedIn:** [linkedin.com/in/manoellamanciio](https://www.linkedin.com/in/manoellamanciio)
-*   **E-mail:** [manoel.amanciio@gmail.com]
+*   **E-mail:** manoel.amanciio@gmail.com
 *   **Localização:** Paulista - PE (Disponível para oportunidades presenciais em Recife e posições remotas)
 
 ---
