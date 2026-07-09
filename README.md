@@ -1,54 +1,56 @@
-# 👨‍💻 Manoel Amâncio
+# Olá, eu sou o Manoel Amâncio! 👋
 
-Desenvolvedor em formação, com foco em Java e construção de APIs.
+### Desenvolvedor Full-Stack em Formação | Estudante de Engenharia de Software
 
-🎯 Buscando oportunidade de estágio em desenvolvimento
+Sou um profissional em transição de carreira focado em engenharia de software e desenvolvimento web ponta a ponta (Full-Stack). Atualmente, dedico meus estudos à construção de interfaces modernas e componentizadas no ecossistema **React**, além do desenvolvimento de APIs robustas e escaláveis utilizando **Java com Spring Boot** e **Python**. 
 
----
-
-## 🚀 Sobre mim
-
-Estudante de Engenharia de Software e em formação Full Stack, com foco no desenvolvimento de projetos práticos voltados para backend.
-
-Atuo na construção de aplicações utilizando lógica de programação, orientação a objetos e implementação de regras de negócio, incluindo simulações de cenários reais como validação de transações e persistência de dados.
+Tenho facilidade para trabalhar com lógica de programação complexa, modelagem de banco de dados e aplicação de regras de negócio em cenários reais.
 
 ---
 
-## 🛠️ Tecnologias
+### 🛠️ Tecnologias e Ferramentas
 
-* Java (POO, lógica de programação)
-* JavaScript | Node.js
-* Python
-* SQLite | MySQL (em evolução)
-* Git & GitHub
-
----
-
-## 💡 Projetos em destaque
-
-### 🔹 Sistema Antifraude Pix
-
-Simulação de um sistema de recebimento Pix com regras de validação, análise de risco e controle de status de transações.
-
-### 🔹 CRUD com Python + SQLite
-
-Aplicação com operações completas de cadastro, persistência de dados e manipulação de informações.
-
-### 🔹 Conversor de Medidas (Java)
-
-Aplicação em terminal com menu interativo, utilizando estruturas de repetição e controle de fluxo.
+*   **Front-End:** HTML5, CSS3, JavaScript (ES6+), ReactJS (Componentização, Consumo de APIs).
+*   **Back-End:** Java (POO), Spring Boot (Em evolução), Node.js, Python.
+*   **Bancos de Dados:** SQLite, MySQL.
+*   **Ferramentas e Práticas:** Git, GitHub, Metodologias Ágeis (Scrum), n8n (Automação de Processos).
 
 ---
 
-## 📈 Em evolução
+### 💡 Projetos em Destaque
 
-* Desenvolvimento backend com Java (Spring Boot)
-* Construção de APIs REST
-* Formação Full Stack (Java + JavaScript + React)
-* Estrutura de dados e boas práticas
+📂 **[Sistema Antifraude Pix](https://github.com/manoelamanciio)**
+Simulação de um ecossistema de recebimento via Pix com regras de validação severas, análise de risco em tempo real e controle dinâmico de status de transações. 
+* *Tecnologias:* Java, Lógica Orientada a Objetos.
+
+📂 **[CRUD de Clientes com Python + SQLite](https://github.com/manoelamanciio)**
+Evolução de uma aplicação de gerenciamento de dados que migrou de uma persistência simples em arquivos JSON para um banco de dados relacional estruturado em SQLite.
+* *Tecnologias:* Python, SQLite, Manipulação de Dados.
+
+📂 **[Dashboard de Análise de Frota](https://github.com/manoelamanciio/Dashboard-Locacao-de-Veiculos)**
+Projeto focado em inteligência de dados operacionais e métricas de negócios utilizando fórmulas analíticas aplicadas à tomada de decisão.
+* *Tecnologias:* Power BI, Linguagem M, DAX.
+
+📂 **[Conversor de Medidas](https://github.com/manoelamanciio)**
+Aplicação prática via terminal baseada em menus interativos, aplicando conceitos sólidos de estruturas de repetição e controle de fluxo.
+* *Tecnologias:* Java.
 
 ---
 
-## 📫 Contato
+### 📈 Formação & Aprendizado Contínuo
 
-* LinkedIn: https://www.linkedin.com/in/manoellamanciio
+*   **Graduação:** Engenharia de Software — Estácio (Recife/PE)
+*   **Formação Full-Stack:** Treina Recife (HTML, CSS, JS, ReactJS, Java e Spring Boot)
+*   **Bootcamp Back-End Python:** LuizaLabs / DIO
+*   **Bootcamp Santander:** Lógica de Programação, Automação (n8n) e Ciência de Dados com IA
+
+---
+
+### 📫 Vamos nos conectar?
+
+*   **LinkedIn:** [linkedin.com/in/manoellamanciio](https://www.linkedin.com/in/manoellamanciio)
+*   **E-mail:** [manoel.amanciio@gmail.com]
+*   **Localização:** Paulista - PE (Disponível para oportunidades presenciais em Recife e posições remotas)
+
+---
+*“A evolução é constante. Um bloco de código por vez.”*
